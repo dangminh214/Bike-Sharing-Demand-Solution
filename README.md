@@ -28,6 +28,8 @@ import matplotlib.pyplot as plt
 sns.pairplot(train[["temp", "atemp", "holiday"]])
 plt.show()
 ```
+![image](https://github.com/dangminh214/Bike-Sharing-Demand-Solution/assets/51837721/717f7ece-1dce-4391-afe6-70074a999099)
+
 
 ### Preprocess data 
 ```ruby
