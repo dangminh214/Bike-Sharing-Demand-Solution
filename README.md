@@ -1,6 +1,6 @@
 # Title: Bike Sharing Demand - My Solution 
 
-### Technical Stack: Jupyter Notebook, Pandas, Seaborn, Mathplotlib, Seaborn, Sklearn, Random Forrest Regression
+### Technical Stack: Jupyter Notebook, Pandas, Seaborn, Mathplotlib, Sklearn, Random Forrest Regression
 
 ### Load data
 ```ruby
